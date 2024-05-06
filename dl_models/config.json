@@ -1,0 +1,7 @@
+{
+    "name": "model1",
+    "batch_size": 96,
+    "epochs": 150,
+    "learning_rate": 0.01,
+    "model": "DRU128_1000_MITO"
+}
